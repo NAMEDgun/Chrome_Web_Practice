@@ -27,3 +27,5 @@ const todaysQuote = quotes[Math.floor(Math.random() * quotes.length)];
 
 quote.innerText = todaysQuote.quote;
 author.innerText = todaysQuote.author;
+
+//We need for CSS code. We should make an UI's project for Chrome page practice
